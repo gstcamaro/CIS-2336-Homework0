@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: aqua;
+}
+
+p {
+    font-size: 20px;
+}
+.food-title {
+color: yellow;
+}
+#page-footer{
+    color: white;
+}
